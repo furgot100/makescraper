@@ -1,6 +1,6 @@
 # 🕷 makescraper
 
-[![Go Report Card](https://goreportcard.com/badge/github.com/YOUR_GITHUB_USERNAME/makescraper)](https://goreportcard.com/report/github.com/YOUR_GITHUB_USERNAME/makescraper)
+[![Go Report Card](https://goreportcard.com/badge/github.com/furgot100/makescraper)](https://goreportcard.com/report/github.com/furgot100/makescraper)
 
 _Create your very own web scraper and crawler using Go and [Colly](https://go-colly.org)!_
 
@@ -42,10 +42,10 @@ _Complete each task in the order they appear. Use [GitHub Task List](https://hel
 
 #### Scraping
 
-- [ ] **IMPORTANT**: Complete the Web Scraper Workflow worksheet distributed in class.
-- [ ] Create a `struct` to store your data.
-- [ ] Refactor the `c.OnHTML` callback on line `16` to use the selector(s) you tested while completing the worksheet.
-- [ ] Print the data you scraped to `stdout`.
+- [x] **IMPORTANT**: Complete the Web Scraper Workflow worksheet distributed in class.
+- [x] Create a `struct` to store your data.
+- [x] Refactor the `c.OnHTML` callback on line `16` to use the selector(s) you tested while completing the worksheet.
+- [x] Print the data you scraped to `stdout`.
 
 ##### Stretch Challenges
 
@@ -53,9 +53,9 @@ _Complete each task in the order they appear. Use [GitHub Task List](https://hel
 
 #### Serializing & Saving
 
-- [ ] Serialize the `struct` you created to JSON. Print the JSON to `stdout` to validate it.
-- [ ] Write scraped data to a file named `output.json`.
-- [ ] **Add, commit, and push to GitHub**.
+- [x] Serialize the `struct` you created to JSON. Print the JSON to `stdout` to validate it.
+- [x] Write scraped data to a file named `output.json`.
+- [x] **Add, commit, and push to GitHub**.
 
 ## Resources
 
